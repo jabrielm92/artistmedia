@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/musicplayer/static/css/main.5a1eae24.css",
-    "main.js": "/musicplayer/static/js/main.3e24c494.js",
-    "static/media/fa-solid-900.ttf": "/musicplayer/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
-    "static/media/fa-brands-400.ttf": "/musicplayer/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
-    "static/media/fa-solid-900.woff2": "/musicplayer/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
-    "static/media/fa-brands-400.woff2": "/musicplayer/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/fa-regular-400.ttf": "/musicplayer/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/fa-regular-400.woff2": "/musicplayer/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
-    "static/media/fa-v4compatibility.ttf": "/musicplayer/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
-    "static/media/fa-v4compatibility.woff2": "/musicplayer/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
-    "index.html": "/musicplayer/index.html",
-    "main.5a1eae24.css.map": "/musicplayer/static/css/main.5a1eae24.css.map",
-    "main.3e24c494.js.map": "/musicplayer/static/js/main.3e24c494.js.map"
+    "main.css": "/artistmedia/static/css/main.399c294a.css",
+    "main.js": "/artistmedia/static/js/main.073fca51.js",
+    "static/media/fa-solid-900.ttf": "/artistmedia/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/artistmedia/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/artistmedia/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/artistmedia/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/artistmedia/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/artistmedia/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/artistmedia/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/artistmedia/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/artistmedia/index.html",
+    "main.399c294a.css.map": "/artistmedia/static/css/main.399c294a.css.map",
+    "main.073fca51.js.map": "/artistmedia/static/js/main.073fca51.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a1eae24.css",
-    "static/js/main.3e24c494.js"
+    "static/css/main.399c294a.css",
+    "static/js/main.073fca51.js"
   ]
 }
