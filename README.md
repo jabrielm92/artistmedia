@@ -1,6 +1,6 @@
 https://jabrielm92.github.io/artistmedia/
 An artist media app that puts the control back in the artists hands. In production. Built with React. Right now users can create an account, login, and upload media. 
-The media is stored in Firebase. After media is stored, it plays on a media player. Furture features and components include, podcast recording and upload, video upload, 
+The media is stored in Firebase. After media is stored, it plays on a media player. Future features and components include, podcast recording and upload, video upload, 
 inventory/cart feature to monetize. Add commercials, make announcements, and connect directly to fans and supporters.
 <img width="960" alt="2023-06-12 (5)" src="https://github.com/jabrielm92/artistmedia/assets/122121464/9d1e0a5c-421b-4f22-a5b7-7579efbb9a4c">
 <img width="960" alt="2023-06-12 (6)" src="https://github.com/jabrielm92/artistmedia/assets/122121464/9b7cc3c6-27f2-4684-bd40-1a887bc76e8c">
